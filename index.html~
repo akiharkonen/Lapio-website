@@ -4,17 +4,31 @@
 <head>
   <meta charset="utf-8">
   <title>Lapio website</title>
+<link rel="stylesheet" href="style.css">
 </head>
 
 <body>
   <!--Tee tehtävät tänne-->
+<a href=aleksi.html>Aleksis Kivi</a>
 <h1>Seitsämän veljestä</h1>
-<h2>Tärkeät päähenkilöt</h>
+<img src=./assets/Seitsem%C3%A4n_veljest%C3%A4.png alt="Seven bros" height="" width=""/>
+<h2>Tärkeät päähenkilöt</h><br><br>
 <li>Päähenkilöt</li>
 <ul>
 <li>Juhani</li>
+<li>Tuomas</li>
+<li>Aapo</li>
+<li>Simeoni</li>
+<li>Timo</li>
+<li>Lauri</li>
+<li>Eero</li>
 </ul>
 <li>Sivuhenkilöt</li>
+<ul>
+<li>Männistön Venla</li>
+<li>Lukkari</li>
+<li>Tammiston Kyösti</li>
+</ul>
 <h2>Ensimmäinen luku</h2>
 <p>
 <b>Jukolan</b> talo, eteläisessä <i>Hämeessä</i>, seisoo erään mäen pohjoisella rinteeellä, liki <b><i>Toukolan</i></b> kylää.</p><p>Sen läheisin ympäristö on kivinen tanner, mutta alempaa alkaa pellot, joissa, ennenkuin talo oli häviöön mennyt, aaltoili teräinen vilja.</p><p>jatkuu...
