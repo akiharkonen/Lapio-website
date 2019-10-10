@@ -2,16 +2,25 @@
   width: 200px;
   height: 100px;
   background-color: red;
+  position: absolute;
+  left:10px;
+  top:10;
 }
 
 .second-box-container {
   width: 200px;
   height: 100px;
   background-color: yellow;
+  position: absolute;
+  left:250px;
+  top:10;
 }
 
 .third-box-container {
   width: 200px;
   height: 100px;
   background-color: green;
+  position: absolute;
+  left:490px;
+  top:10;
 }

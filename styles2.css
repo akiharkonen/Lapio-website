@@ -1,0 +1,46 @@
+p {
+  color: blue;
+  text-transform: uppercase;
+  
+ }
+.first-box-container {
+  width:190px;
+  height: 100px;
+  background-color: red;
+  position: absolute;
+  left:10px;
+  top:10;
+  border-style: solid;
+  border-width: 10px;
+  border-color: green;
+  text-align: center;
+  padding-top: 40px	;
+}
+
+.second-box-container {
+  width: 190px;
+  height: 100px;
+  background-color: yellow;
+  position: absolute;
+  left:250px;
+  top:10;
+  border-style: solid;
+  border-width: 10px;
+  border-color: red;
+  text-align: center;
+  padding-top: 40px	;
+}
+
+.third-box-container {
+  width: 190px;
+  height: 100px;
+  background-color: green;
+  position: absolute;
+  left:490px;
+  top:10;
+  border-style: solid;
+  border-width: 10px;
+  border-color: yellow;
+  text-align: center;
+  padding-top: 40px	;
+}
